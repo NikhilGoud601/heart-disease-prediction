@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+.venv/
+.git - Copy/
+static/.git - Copy/
+static/.idea/
+*.db
